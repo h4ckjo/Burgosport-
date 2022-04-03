@@ -1,0 +1,81 @@
+#aceptarCookie
+	{
+		width: 120px;
+		cursor: pointer;
+		font-size: 12px;
+	}
+#avisocookie
+	{
+		display:absolute;
+		position:relative;
+		width: 750px;
+		height: 50px;
+
+	}
+
+.cpMSGcookies .mCookie1 .mCookie2 .mCookie3 .mCookie4, .cpMSGcookies .mCookie1 .mCookie2 .mCookie3 .mCookie4 .mCookie5 {
+	background-color:#F2F2F2;
+	border:3px solid #777777; 
+	border-radius: 20px;
+}
+
+.cpMSGcookies
+{
+	position: fixed;
+	display: block;
+	width: 100%;
+	text-align: center;
+	z-index: 1001;
+	color: #444;
+	background-position: bottom right;
+}
+.cpMSGcerrarcookie
+	{
+	position: absolute;
+	display:block;
+	z-index: 1001;	
+	left:30px;
+	
+	}
+
+.cpMSGcookies .mCookie1 .mCookie2 .mCookie3 {
+	background-position:bottom left;
+	padding:0 20px;
+}
+
+.cpMSGcookies .mCookie1 .mCookie2 .mCookie3 .mCookie4 {
+	padding:30px 0;
+	border-left:0;
+	border-right:0;
+}
+.cpMSGcookies .mCookie1 .mCookie2 .mCookie3 .mCookie4 .mCookie5 {
+	padding:0 12px;
+	margin:0 -15px;
+	border-top:0;
+	border-bottom:0;
+}
+
+.textocookie
+	{
+		display:inline-block;
+		text-align: left;
+		font-family: verdana;
+		font-size: 14px;
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+.btnAceptarCookie
+	{
+		position: absolute;
+		width: 180px;
+		height: 29px;
+		right:-10px;
+		cursor: pointer;
+	}
+
+
+
+
+
+
+

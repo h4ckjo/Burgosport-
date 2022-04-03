@@ -1,0 +1,43 @@
+.navbar{
+	margin-bottom: 0;
+	border-radius: 0;
+
+
+}
+#menu{
+	color: chartreuse;
+}
+
+
+.jumbotron{
+	background-image: url(../img/slider1.jpg);
+	color:orange;
+	height: 500px;
+}
+.jumbotron1{
+	background-image: url(../img/desierto.jpg);
+	color: black;
+	height: 500px;
+}
+footer{
+	background-color: #1F201D;
+	padding:15px;
+	color:white;
+	padding-bottom: 0;
+	text-align: right;
+}
+	
+.izq{
+	float:left;
+	margin-right: 10px;
+}
+th{
+	background:#1F201D;
+	color:white;
+}
+td{
+	vertical-align: top;
+	padding-top: 10px;
+}
+
+
